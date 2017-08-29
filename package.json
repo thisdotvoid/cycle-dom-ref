@@ -1,6 +1,6 @@
 {
   "name": "cycle-dom-ref",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cycle.js DOM ref selector helper",
   "main": "index.ts",
   "keywords": [

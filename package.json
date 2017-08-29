@@ -1,0 +1,17 @@
+{
+  "name": "cycle-dom-ref",
+  "version": "1.0.0",
+  "description": "Cycle.js DOM ref selector helper",
+  "main": "index.ts",
+  "keywords": [
+    "cycle.js",
+    "dom",
+    "ref",
+    "reference"
+  ],
+  "author": "Mirza Brunjadze <brunjadzem@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@cycle/dom": "^18.1.0"
+  }
+}
